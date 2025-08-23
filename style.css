@@ -127,7 +127,7 @@
     }
 
 
-    @media (max-width:412px) {
+    @media (min-width:375px) and (max-width:415px){
       body{
         display: flex;
         justify-content: center;
